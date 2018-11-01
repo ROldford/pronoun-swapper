@@ -1,6 +1,9 @@
 # pronoun-swapper package
 
 [![Build Status](https://travis-ci.org/ROldford/pronoun-swapper.svg?branch=master)](https://travis-ci.org/ROldford/pronoun-swapper)
+![APMVersion](https://img.shields.io/apm/v/pronoun-swapper.svg)
+![APMDownloads](https://img.shields.io/apm/dm/pronoun-swapper.svg)
+![APMLicense](https://img.shields.io/apm/l/pronoun-swapper.svg)
 
 **Convert all pronouns in selected text to female or male form**
 

@@ -7,3 +7,6 @@
 
 ## 0.1.2
 * Travis CI integration
+
+## 0.1.3
+* Documentation badges
