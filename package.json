@@ -1,18 +1,19 @@
 {
   "name": "pronoun-swapper",
   "main": "./lib/pronoun-swapper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert all pronouns in selected text to male or female form",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["pronoun-swapper:femaleify", "pronoun-swapper:maleify"]
+    "atom-workspace": [
+      "pronoun-swapper:femaleify",
+      "pronoun-swapper:maleify"
+    ]
   },
   "repository": "https://github.com/ROldford/pronoun-swapper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
