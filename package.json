@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": ["pronoun-swapper:femaleify", "pronoun-swapper:maleify"]
   },
-  "repository": "https://github.com/atom/pronoun-swapper",
+  "repository": "https://github.com/ROldford/pronoun-swapper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
