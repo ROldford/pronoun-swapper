@@ -10,6 +10,7 @@
 ## Usage
 
 To use, just select some text, then activate the femaleify or maleify commands.
+
 *Commands are accessible from command pallete and packages menu*
 
 ## Features
