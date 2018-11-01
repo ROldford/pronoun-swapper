@@ -1,5 +1,7 @@
 # pronoun-swapper package
 
+[![Build Status](https://travis-ci.org/ROldford/pronoun-swapper.svg?branch=master)](https://travis-ci.org/ROldford/pronoun-swapper)
+
 **Convert all pronouns in selected text to female or male form**
 
 ## Usage
