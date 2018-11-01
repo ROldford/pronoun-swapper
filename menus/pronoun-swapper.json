@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "To female",
+        "command": "pronoun-swapper:femaleify"
+      },
+      {
+        "label": "To male",
+        "command": "pronoun-swapper:maleify"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Pronoun Swapper",
+          "submenu": [
+            {
+              "label": "Convert pronouns to female",
+              "command": "pronoun-swapper:femaleify"
+            },
+            {
+              "label": "Convert pronouns to male",
+              "command": "pronoun-swapper:maleify"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
